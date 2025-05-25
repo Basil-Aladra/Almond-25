@@ -1,4 +1,5 @@
-import coverIamge from "./assets/cover.jpg";
+
+import coverIamge from "./assets/CoverIamge.jpg";
 import proflie from "./assets/profile.jpeg";
 function App() {
   return (
