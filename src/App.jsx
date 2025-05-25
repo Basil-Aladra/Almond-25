@@ -48,7 +48,7 @@ function App() {
 
             <div className="mt-10 flex justify-center gap-2 ml-10 mr-10">
               <a
-                href="tel:0568353362"
+                href="tel:+972593716716"
                 className="btn  text-white w-44 rounded-xl flex justify-center"
                 style={{ backgroundColor: "#009F79" }}
               >
